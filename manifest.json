@@ -1,6 +1,5 @@
 {
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
+ "name": "Projeto Bem Estar Pet",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +37,8 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Projeto Bem Estar Pet",
  "start_url": "index.htm?installed=true",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF"
 }
